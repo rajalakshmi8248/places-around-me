@@ -14,6 +14,7 @@ Write the needed HTML code
 Run the django server and execute the HTML files.
 
 ## Code:
+```
 Imap.html
 <!DOCTYPE html>
 <html lang="en">
@@ -169,7 +170,7 @@ Oxaliss International School is run by the reputable management of “Kalap Viru
 </p>
 </body>
 </html>
-
+```
 
 
 # Output:
